@@ -5,6 +5,7 @@ plugins {
     id 'checkstyle'
     id 'pmd'
     id 'com.github.spotbugs' version '1.7.1'
+    id "org.sonarqube" version "2.7"
 }
 
 sourceSets {
@@ -30,6 +31,7 @@ repositories {
 
 dependencies {
     compile "com.google.guava:guava:$guavaVersion"
+
 
     compileOnly "com.github.spotbugs:spotbugs-annotations:$spotbugsAnnotationsVersion"
 
