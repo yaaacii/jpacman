@@ -23,6 +23,6 @@ This fork contains bad smells and questionable practices (effectively making the
 1. Git clone the project
 2. To build JPacman without running: `./gradlew build`
 3. To see JPacman in action: `./gradlew run`
-4. To run the tests use: `./gradlew test 
+4. To run the tests use: `./gradlew test`
 5. For static analysis tools (not used in Software Reengineering): `./gradlew staticAnalysis`
 6. For static analysis tools and tests (not used in Software Reengineering): `./gradlew check`
