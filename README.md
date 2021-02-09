@@ -17,7 +17,7 @@ This fork contains bad smells and questionable practices (effectively making the
 4. In the next screen, optionally adjust the Gradle options and click 'Finish'
 5. To see JPacman in action: run `nl.tudelft.jpacman.Launcher`
 6. To run the test suite in IntelliJ: right click on a test or directory -> `Run` or `Run ...Test`
-    1. To see the coverage, on the Gradle tasks plugin right click on 'test' and select -> `Run 'jpacman[test] with Coverage` 
+    1. To see the coverage, on the Gradle tasks plugin right click on 'test' and select -> `Run 'jpacman[test]' with Coverage` 
 
 ### Command line
 1. Git clone the project
