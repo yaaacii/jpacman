@@ -4,7 +4,7 @@
 
 Pacman-like game used for teaching. The original JPacman [repository](https://github.com/SERG-Delft/jpacman) was developed at Delft University of Technology.
 
-This fork is used by the [Software Reengineering course](https://ansymore.uantwerpen.be/courses/software-reengineering) at the [University of Antwerp](https://www.uantwerpen.be/en/). **Warning:** if you are not a student for the Software Reengineering course, I strongly recommend you fork the original JPacman repository intead of this one.
+This fork is used by the [CS 473/673 - Software Product Design and Development II course](https://johnxu21.github.io/teaching/CS473-Fall2022/?) at the [UNLV](https://www.unlv.edu/). **Warning:** if you are not a student for the Software Reengineering course, I strongly recommend you fork the original JPacman repository intead of this one.
 
 This fork contains bad smells and questionable practices (effectively making the code quality worst) introduced on purpose so that students can use reengineering tools to find and refactor these bad practices. Moreover, the testing parts of this fork will change from the original repository. Although, many parts of the code are still left untested intentionally.
 
